@@ -8,7 +8,8 @@ __pycache__/
 myvenv/
 venv/
 
-mail/__pycache__
+/mail/mail/__pycache__/
+
 
 project3/__pycache__
 
